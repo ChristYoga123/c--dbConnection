@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasPGSQL", "TugasPGSQL\TugasPGSQL.csproj", "{0D37AA80-EF37-496D-8541-6F68667FCD85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D37AA80-EF37-496D-8541-6F68667FCD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D37AA80-EF37-496D-8541-6F68667FCD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D37AA80-EF37-496D-8541-6F68667FCD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D37AA80-EF37-496D-8541-6F68667FCD85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978E2990-C9BA-4240-8435-6BF1D8D5030F}
+	EndGlobalSection
+EndGlobal

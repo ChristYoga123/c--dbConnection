@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4COPdnvNNl5jqHZHLmPcjasnnGV2/Uf4wS2a6ph2eu2Ng5LhixsXcfMllc2pclKAFV24/uJgnX2iDIB5Htt+Q==",
+  "success": true,
+  "projectFilePath": "F:\\UNEJ\\BELAJAR\\SEMESTER 3\\Pemrograman Berbasis Objek\\projects\\Pertemuan6\\TugasPGSQL\\TugasPGSQL\\TugasPGSQL\\TugasPGSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoga\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
